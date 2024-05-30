@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\fomo_unreal\\Source\\Forschungsseminar\\Forschungsseminar.Build.cs",
+		"F:\\fomo_unreal\\Source\\Forschungsseminar.Target.cs",
+		"F:\\fomo_unreal\\Source\\ForschungsseminarEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

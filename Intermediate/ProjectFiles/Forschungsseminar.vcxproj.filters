@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Forschungsseminar.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{92DC5030-791C-49E8-BA6C-BE99005F5F93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Forschungsseminar.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ForschungsseminarEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F361D4D2-E815-47AA-8D7E-F3D9A78E902F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Forschungsseminar">
+      <UniqueIdentifier>{715C8D86-059E-473B-BEE6-6368A7D1898F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Forschungsseminar\ExportManager.cpp">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forschungsseminar\ExportManager.h">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Forschungsseminar\Forschungsseminar.Build.cs">
+      <Filter>Source\Forschungsseminar</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Forschungsseminar\Forschungsseminar.cpp">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forschungsseminar\Forschungsseminar.h">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Forschungsseminar\MyFirstClass.cpp">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Forschungsseminar\MyFirstClass.h">
+      <Filter>Source\Forschungsseminar</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

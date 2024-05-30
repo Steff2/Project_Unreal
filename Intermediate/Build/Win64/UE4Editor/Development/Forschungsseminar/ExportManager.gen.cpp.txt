@@ -1,0 +1,5 @@
+F:\fomo_unreal\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\Definitions.Forschungsseminar.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+F:\fomo_unreal\Source\Forschungsseminar/ExportManager.h
+F:\fomo_unreal\Intermediate\Build\Win64\UE4Editor\Inc\Forschungsseminar\ExportManager.generated.h

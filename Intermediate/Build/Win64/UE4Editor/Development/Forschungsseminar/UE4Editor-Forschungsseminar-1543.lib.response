@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Forschungsseminar-1543.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\ForschungsseminarEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\Forschungsseminar.cpp.obj"
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\MyFirstClass.cpp.obj"
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\Forschungsseminar.init.gen.cpp.obj"
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\MyFirstClass.gen.cpp.obj"
+"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Forschungsseminar\Intermediate\Build\Win64\UE4Editor\Development\Forschungsseminar\UE4Editor-Forschungsseminar-1543.lib"
+/INCLUDE:IMPLEMENT_MODULE_Forschungsseminar

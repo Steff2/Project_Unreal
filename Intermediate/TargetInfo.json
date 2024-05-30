@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Forschungsseminar",
+			"Path": "F:\\fomo_unreal\\Source\\Forschungsseminar.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ForschungsseminarEditor",
+			"Path": "F:\\fomo_unreal\\Source\\ForschungsseminarEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
